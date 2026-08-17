@@ -48,3 +48,6 @@ Model Evaluation
 Prediction System
       ↓
 Web Application
+
+## 🖥️ Application Screenshot
+
