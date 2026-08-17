@@ -50,4 +50,5 @@ Prediction System
 Web Application
 
 ## 🖥️ Application Screenshot
+https://github.com/GURNOOR20010/Gurnoor_Medical-insurance-prediction-model-project-2/blob/main/medical%20insurance%20prediction%20model.png
 
